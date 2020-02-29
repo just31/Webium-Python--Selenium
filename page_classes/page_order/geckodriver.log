@@ -1,0 +1,372 @@
+1564825303528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wh20NLHFmBkd"
+1564825304300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564825304300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564825304301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564825304301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:9895): Gtk-WARNING **: 12:41:45.010: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564825306776	Marionette	INFO	Listening on port 41003
+1564825306841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564825318789	Marionette	INFO	Stopped listening on port 41003
+1564825977588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XEmzt7eKnPtS"
+1564825978449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564825978449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564825978449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564825978449	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:11325): Gtk-WARNING **: 12:52:59.211: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564825981483	Marionette	INFO	Listening on port 44975
+1564825981509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564825989697	Marionette	INFO	Stopped listening on port 44975
+1564826037300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1aqBGv8IBFR2"
+1564826038201	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564826038201	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564826038202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564826038202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:11726): Gtk-WARNING **: 12:53:58.986: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564826041289	Marionette	INFO	Listening on port 43131
+1564826041316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564826053806	Marionette	INFO	Stopped listening on port 43131
+1564826136005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FLTfvlAcbrQ7"
+1564826136860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564826136860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564826136860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564826136861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:12138): Gtk-WARNING **: 12:55:37.600: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564826139874	Marionette	INFO	Listening on port 46069
+1564826139916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564826145396	Marionette	INFO	Stopped listening on port 46069
+1564826533741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7Z9LCC61kkRb"
+1564826534646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564826534647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564826534647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564826534647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:12761): Gtk-WARNING **: 13:02:15.459: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564826537697	Marionette	INFO	Listening on port 43487
+1564826537759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564826542034	Marionette	INFO	Stopped listening on port 43487
+1564826743369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ApBI9pdtLIQ6"
+1564826744250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564826744251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564826744251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564826744251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:13226): Gtk-WARNING **: 13:05:44.969: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564826747148	Marionette	INFO	Listening on port 38271
+1564826747193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564826750597	Marionette	INFO	Stopped listening on port 38271
+1564827185432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2ZBcgDu5JbZ0"
+1564827186270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564827186271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564827186271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564827186271	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:14369): Gtk-WARNING **: 13:13:07.003: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564827189154	Marionette	INFO	Listening on port 40573
+1564827189248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564827199490	Marionette	INFO	Stopped listening on port 40573
+1564827300076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QvpVHix1vpM3"
+1564827301303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564827301304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564827301304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564827301304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:14805): Gtk-WARNING **: 13:15:02.090: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564827304105	Marionette	INFO	Listening on port 33353
+1564827304189	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564827307191	Marionette	INFO	Stopped listening on port 33353
+1564827388470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aDZOACt5uAvj"
+1564827389247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564827389247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564827389248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564827389248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:15225): Gtk-WARNING **: 13:16:29.978: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564827391901	Marionette	INFO	Listening on port 35215
+1564827391983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564827395028	Marionette	INFO	Stopped listening on port 35215
+1564827504555	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6fCnyYVAFbqi"
+1564827505346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564827505346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564827505346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564827505346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:15642): Gtk-WARNING **: 13:18:26.087: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564827507828	Marionette	INFO	Listening on port 39285
+1564827507942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564827522945	Marionette	INFO	Stopped listening on port 39285
+1564827940906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hxbA4xFMpDaV"
+1564827941708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564827941708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564827941709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564827941709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:17005): Gtk-WARNING **: 13:25:42.456: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564827944187	Marionette	INFO	Listening on port 33953
+1564827944279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564827954741	Marionette	INFO	Stopped listening on port 33953
+1564828076228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.K15NRvYXYJ5M"
+1564828077053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564828077053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564828077054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564828077054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:17415): Gtk-WARNING **: 13:27:57.789: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564828079822	Marionette	INFO	Listening on port 44299
+1564828079846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564828091115	Marionette	INFO	Stopped listening on port 44299
+1564828157497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YjQW3acJZw9T"
+1564828158308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564828158308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564828158308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564828158309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:17825): Gtk-WARNING **: 13:29:19.151: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564828161230	Marionette	INFO	Listening on port 35263
+1564828161312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564828163145	Marionette	INFO	Stopped listening on port 35263
+1564828253088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DiTb7PfjEVcu"
+1564828253937	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564828253938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564828253938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564828253938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:18238): Gtk-WARNING **: 13:30:54.676: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564828256509	Marionette	INFO	Listening on port 34945
+1564828256601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564828258783	Marionette	INFO	Stopped listening on port 34945
+1564829214781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.K3k9MpFsRQxE"
+1564829215642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564829215643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564829215643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564829215643	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:20726): Gtk-WARNING **: 13:46:56.375: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564829218640	Marionette	INFO	Listening on port 46533
+1564829218710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564829236423	Marionette	INFO	Stopped listening on port 46533
+1564829787482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vajjRmSJMJfm"
+1564829788399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564829788399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564829788400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564829788400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:22459): Gtk-WARNING **: 13:56:29.092: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564829791364	Marionette	INFO	Listening on port 41209
+1564829791393	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221564790410142%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 22459, Gecko_IOThread] WARNING: pipe error (83): Соединение разорвано другой стороной: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 22459, Gecko_IOThread] WARNING: pipe error (86): Соединение разорвано другой стороной: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564829835671	Marionette	INFO	Stopped listening on port 41209
+1564831123992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mD2yJ7v3y1qI"
+1564831124803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564831124803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564831124803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564831124804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:26262): Gtk-WARNING **: 14:18:45.559: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564831127551	Marionette	INFO	Listening on port 39511
+1564831127602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564831133125	Marionette	INFO	Stopped listening on port 39511
+1564831758750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zIQAPsPiSdxs"
+1564831759585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564831759585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564831759585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564831759585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:27551): Gtk-WARNING **: 14:29:20.320: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564831762113	Marionette	INFO	Listening on port 35719
+1564831762213	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221564790410142%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1564831786397	Marionette	INFO	Stopped listening on port 35719
+1564831935872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3HpvxZgJzI6S"
+1564831936681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564831936681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564831936682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564831936682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:28427): Gtk-WARNING **: 14:32:17.395: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564831939320	Marionette	INFO	Listening on port 40255
+1564831939382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564831942574	Marionette	INFO	Stopped listening on port 40255
+1564837150835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QPlJJsUB7gFy"
+1564837151632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564837151632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564837151632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564837151633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:32359): Gtk-WARNING **: 15:59:12.373: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564837154304	Marionette	INFO	Listening on port 36937
+1564837154351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564837157768	Marionette	INFO	Stopped listening on port 36937
+1564837226455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PQfyA9dIfdDK"
+1564837227219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564837227219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564837227219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564837227219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:315): Gtk-WARNING **: 16:00:27.990: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564837229767	Marionette	INFO	Listening on port 40115
+1564837229865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564837233024	Marionette	INFO	Stopped listening on port 40115
+1564837892764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uIFtVvSROpxh"
+1564837893611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564837893611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564837893612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564837893612	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:2104): Gtk-WARNING **: 16:11:34.380: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564837896277	Marionette	INFO	Listening on port 40729
+1564837896376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564837899384	Marionette	INFO	Stopped listening on port 40729
+1564838612569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.L7eYqnx8mM8W"
+1564838613477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564838613477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564838613477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564838613477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:3133): Gtk-WARNING **: 16:23:34.186: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+JavaScript error: resource://services-common/kinto-offline-client.js, line 579: Error: IndexedDB getLastModified() The current transaction exceeded its quota limitations.
+1564838615414	addons.xpi-utils	WARN	Failed to save XPI database: {"operation":"write","path":"/tmp/rust_mozprofile.L7eYqnx8mM8W/extensions.json","unixErrno":28}
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  QuotaExceededError
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1269: TypeError: conn is undefined
+1564838615877	addons.xpi-utils	WARN	Failed to save XPI database: {"operation":"write","path":"/tmp/rust_mozprofile.L7eYqnx8mM8W/extensions.json","unixErrno":28}
+1564838615965	Marionette	INFO	Listening on port 43323
+1564838616083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564838616097	addons.xpi-utils	WARN	Failed to save XPI database: {"operation":"write","path":"/tmp/rust_mozprofile.L7eYqnx8mM8W/extensions.json","unixErrno":28}
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+1564838619769	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1326:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1326:17
+shutdown@XPIDatabase.jsm:1574:14
+shutdown@XPIProvider.jsm:2462:23
+_startProvider/AMProviderShutdown/<@AddonManager.jsm:584:31
+AMProviderShutdown@AddonManager.jsm:582:16
+trigger@AsyncShutdown.jsm:701:23
+_wait@AsyncShutdown.jsm:847:15
+wait@AsyncShutdown.jsm:832:33
+shutdownManager@AddonManager.jsm:955:37
+observe@AsyncShutdown.jsm:532:16
+1564838619774	addons.xpi-utils	WARN	Failed to save XPI database: {"operation":"write","path":"/tmp/rust_mozprofile.L7eYqnx8mM8W/extensions.json","unixErrno":28}
+[Parent 3133, Gecko_IOThread] WARNING: pipe error (75): Соединение разорвано другой стороной: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 3133, Gecko_IOThread] WARNING: pipe error (88): Соединение разорвано другой стороной: file /build/firefox-tGfEvD/firefox-68.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1564838619813	Marionette	INFO	Stopped listening on port 43323
+1564839292006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NDas2u5NrWnU"
+1564839297088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564839297089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564839297089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564839297089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:3351): Gtk-WARNING **: 16:34:58.513: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564839302852	Marionette	INFO	Listening on port 39509
+1564839302955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564839307561	Marionette	INFO	Stopped listening on port 39509
+1564839338880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ABxJ4bxgL0Yj"
+1564839339815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564839339815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564839339815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564839339816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:3620): Gtk-WARNING **: 16:35:40.564: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564839342837	Marionette	INFO	Listening on port 39433
+1564839342891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564839349735	Marionette	INFO	Stopped listening on port 39433
+1564840006018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9DfeL5b1hDle"
+1564840006805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564840006805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564840006805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564840006805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:5702): Gtk-WARNING **: 16:46:47.546: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564840009456	Marionette	INFO	Listening on port 38083
+1564840009529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 105: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 834: Error: Connection is not open.
+console.log: "RemoteSettingsWorker error: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1564840011399	Marionette	INFO	Stopped listening on port 38083
+1564840423983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G3pWr8ulocvs"
+1564840424763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564840424763	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564840424764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564840424764	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:7079): Gtk-WARNING **: 16:53:45.519: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564840427426	Marionette	INFO	Listening on port 37645
+1564840427494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564840439612	Marionette	INFO	Stopped listening on port 37645
+1564840570929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1WW3DasFGnsE"
+1564840571752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564840571752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564840571752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564840571752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:7744): Gtk-WARNING **: 16:56:12.508: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564840574359	Marionette	INFO	Listening on port 39865
+1564840574445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564840581721	Marionette	INFO	Stopped listening on port 39865
+1564840926976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sE3DcxSSEEVC"
+1564840927824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564840927824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564840927824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564840927824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(firefox:8675): Gtk-WARNING **: 17:02:08.574: Theme directory panel/22 of theme Mojave-CT-Classic has no size field
+
+1564840930358	Marionette	INFO	Listening on port 38439
+1564840930387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 601: TypeError: this.tablesData[table] is undefined
+1564840933863	Marionette	INFO	Stopped listening on port 38439
